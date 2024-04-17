@@ -36,42 +36,31 @@ To run this application locally, follow these steps:
 2. Navigate to the project directory:
 
    ```
-   cd full-stack-post-management
+   cd memories
    ```
 
 3. Install dependencies for both backend and frontend:
 
    ```
-   cd backend
+   cd server
    npm install
-   cd ../frontend
+   cd ../client
    npm install
    ```
 
 4. Start the backend server:
 
    ```
-   cd ../backend
+   cd ../server
    npm start
    ```
 
 5. Start the frontend application:
 
    ```
-   cd ../frontend
+   cd ../client
    npm start
    ```
 
 6. Open the Expo Developer Tools and choose to run the application on an iOS or Android simulator, or scan the QR code with the Expo Go app on your mobile device to run it directly.
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to the developers of Node.js, MongoDB, Express, React Native, and Expo for providing the tools and frameworks necessary to build this application.
+ 
