@@ -30,7 +30,7 @@ To run this application locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/full-stack-post-management.git
+   git clone https://github.com/Abdullah0Dev/memories.git
    ```
 
 2. Navigate to the project directory:
